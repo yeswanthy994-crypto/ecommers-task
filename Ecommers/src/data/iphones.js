@@ -1,0 +1,51 @@
+// src/data/iphones.js
+export const iphones = [
+  {
+    id: 1,
+    name: "iPhone 15 Pro Max",
+    category: "iPhone 15 Series",
+    description: "6.7‑inch display, A17 Pro chip, triple‑camera system.",
+    price: 159900,
+    image: "/images/1.avif",
+  },
+  {
+    id: 2,
+    name: "iPhone 15 Pro",
+    category: "iPhone 15 Series",
+    description: "6.1‑inch display, titanium design, ProMotion.",
+    price: 134900,
+    image: "/images/2.png",
+  },
+  {
+    id: 3,
+    name: "iPhone 15",
+    category: "iPhone 15 Series",
+    description: "Dynamic Island, USB‑C, great all‑round performance.",
+    price: 89900,
+    image: "/images/3.avif",
+  },
+  {
+    id: 4,
+    name: "iPhone 15 Plus",
+    category: "iPhone 15 Series",
+    description: "Bigger 6.7‑inch display with amazing battery life.",
+    price: 99900,
+    image: "/images/4.jpg",
+  },
+  {
+    id: 5,
+    name: "iPhone 14",
+    category: "iPhone 14 Series",
+    description: "Reliable performance with dual‑camera system.",
+    price: 69900,
+    image: "/images/5.jpg",
+  },
+  {
+    id: 6,
+    name: "iPhone 13",
+    category: "iPhone 13 Series",
+    description: "Great value with A15 chip and OLED display.",
+    price: 59900,
+    image: "/images/6.htm",
+  },
+];
